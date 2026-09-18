@@ -1,0 +1,3 @@
+1|Clean Code|Robert C. Martin|true
+2|Effective Java|Joshua Bloch|true
+3|Java: The Complete Reference|Herbert Schildt|true
